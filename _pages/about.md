@@ -1,16 +1,12 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
+title: <strong>Samagra</strong> Sharma
 description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true
 social: true
@@ -20,8 +16,12 @@ social: true
 
 Hey there!
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Samagra (Sammy) this side. I am glad to meet you. I grew up reading Sanskrit texts in the dusty lanes of Guna, a small town in Central India.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I am a researcher. I like to study about intelligent systems, computing, physics and probabilistic modelling. I am about to graduate from IIT Roorkee. Post my bachelor's, I will soon be joining a full PhD program in Computer Systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I researched at Adobe Big Data Lab on Multimodal Content Generation and at UCSB Systems and Networks laboratory on Intelligent Query Planning. I am also associated with Aimacode, where I worked once as a Student Developer and once as a Mentor and Org Admin.
+
+When I am not busy optimising my systems, you can find me playing the Ukulele, writing my heart out or performing at the Dramatics Section, IIT Roorkee.
+
+I like to meet and interact with new people, so don't hesitate to ask me out for coffee. I can talk about philosophy, intelligence, rationality, Krishna, love, life and can listen for hours. In short I am ideal for a coffee date. So hit me up using the channels below and we will have an awesome time.   
